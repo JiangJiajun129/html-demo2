@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>T-ara</title>
+    <style>
+        img {
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <nav>
+        <ol>
+            <li><a href="#T-ara">个人简介</a></li>
+            <li><a href="#events">重要事件</a></li>
+            <li><a href="#awards">成就和荣誉</a></li>
+            <li><a href="#works">主要作品</a></li>
+            <li><a href="#pictures">照片</a></li>
+            <li><a href="#life">巡回演唱会</a></li>
+        </ol>
+    </nav>
+    <h1>
+        T-ara
+    </h1>
+    <p>
+        又写作Tiara、T-ARA或T♔ARA,是从MBK娱乐旗下出道的一队韩国女子音乐组合。名称T-ara源自英文“Tiara”，意思是要成为歌谣界的女王[1][2]。
+
+    </p>
+    <h2>
+        重要事件
+    </h2>
+    <ul>
+        <li>2009年12月,出道专辑《Absolute First Album》发行，并衍生几首热门单曲，包括《谎言》（거짓말）、《TTL》 (Time to Love)、《TTL Listen 2》、《Bo Peep Bo
+        </li>
+        <li>Peep》和《一如当初》。</li>
+        <li>2010年推出的迷你专辑《Temptastic》收录了热门单曲《为什么这样》及《Yayaya》。</li>
+        <li>2011年的专辑《John Travolta Wannabe》中的《Roly-Poly》在Gaon年度排行榜中排名首位，并夺得多个奖项及提名。6个月后发行的迷你专辑《Black
+         Eyes》产生出3首第一单曲《Cry》、《我们不是相爱过吗》（우리 사랑했잖아）和《Lovey-Dovey》，均在告示牌韩国K-pop Hot 100排名第一。</li>
+    </ul>
+    <h2>
+        成就和荣誉
+    </h2>
+    <ol>
+        <li>1 Asia Jewelry Awards</li>
+        <li>2 Billboard Japan Awards</li>
+        <li>3 Cyworld数码音乐奖</li>
+        <li>4 Gaon Chart Grand Opening Awards</li>
+        <li>5 Gaon Chart Awards</li>
+        <li>6 金唱片奖</li>
+        <li>7 GSL Tour Awards</li>
+        <li>8 大韩民国文化演艺大奖</li>
+        <li>9 甜瓜音乐奖</li>
+        <li>10 Mnet亚洲音乐大奖</li>
+        <li>11 Mnet 20's精选奖</li>
+        <li>12 MTN奖</li>
+        <li>13 SBS MTV Best of the Best Awards</li>
+        <li>14 首尔音乐奖</li>
+        <li>15 Soompi Gayo Awards</li>
+        <li>16 音悦V榜年度盛典</li>
+        <li>17 音乐节目奖项</li>
+        <li>17.1 主要音乐节目榜单排名</li>
+        <li>17.2 《Music Bank》</li>
+        <li>17.2.1 年度总结</li>
+        <li>17.3 《SBS人气歌谣》</li>
+        <li>17.4 《M! Countdown》</li>
+        <li>17.5 《Music On Top》</li>
+    </ol>
+    <h2>
+        主要作品
+    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th>年份</th>
+                <th>专辑名称</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2009</td>
+
+
+                <td>《Absolute First Album》</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+
+                <td>《Temptastic》</td>
+            </tr>
+            <tr>
+                <td>2011</td>
+
+                <td>《John Travolta Wannabe》</td>
+            </tr>
+            <tr>
+                <td>2011</td>
+
+                <td>《Black Eyes》</td>
+            </tr>
+            <tr>
+                <td>2012</td>
+
+                <td>《Day by Day》</td>
+            </tr>
+            <tr>
+                <td>2013</td>
+
+                <td>《Again》</td>
+            </tr>
+            <tr>
+                <td>2014</td>
+
+                <td>《And & End》</td>
+            </tr>
+            <tr>
+                <td>2015</td>
+
+                <td>《So Good》</td>
+            </tr>
+            <tr>
+                <td>2016</td>
+
+                <td>《Remember》 </td>
+            </tr>
+            <tr>
+                <td>2017</td>
+
+                <td>《What's my name?》 </td>
+            </tr>
+            <tr>
+                <td>2010</td>
+
+                <td>《RE：T-ara》自费专辑 </td>
+            </tr>
+        </tbody>
+    </table>
+    <h2>照片</h2>
+
+    <div><img width="400" src="images\4 (1).jpg" alt="图一"></div>
+    <div><img width="400" src="images\4 (2).jpg" alt="图二"></div>
+    <div><img width="400" src="images\4 (3).jpg" alt="图三"></div>
+    <div><img width="400" src="images\4 (4).jpg" alt="图四"></div>
+
+    <h2>巡回演唱会</h2>
+    <table>
+        <thead>
+            <tr>年份</tr>
+            <tr>演唱会名称</tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2011年</td>
+                <td>T-ara X'mas Premium Live</td>
+            </tr>
+            <tr>
+                <td>2012年</td>
+                <td>T-ara Japan Tour 2012: Jewelry Box</td>
+            </tr>
+            <tr>
+                <td>2013年</td>
+                <td>T-ara Japan Tour 2013: Treasure Box</td>
+            </tr>
+            <tr>
+                <td>2014年</td>
+                <td>T-ara 2014 TOUR in JAPAN</td>
+            </tr>
+            <tr>
+                <td>2015年</td>
+                <td>T-ara Great China Tour</td>
+            </tr>
+            <tr>
+                <td>2017年</td>
+                <td>2017 T-ara Live in Taipei</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+
+</html>
